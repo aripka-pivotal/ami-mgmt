@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.gopivotal.cf.workshop</groupId>
-	<artifactId>cf-workshop-spring-mvc</artifactId>
-	<name>Cloud Foundry Workshop Application - Spring MVC</name>
+	<artifactId>ami-mgmt</artifactId>
+	<name>Cloud Foundry Workshop AMI Management Application</name>
 	<packaging>war</packaging>
 	<version>0.1</version>
 	<repositories>

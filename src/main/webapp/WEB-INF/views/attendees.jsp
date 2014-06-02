@@ -39,6 +39,8 @@
             <tr>
               <th>First Name</th>
               <th>Last Name</th>
+              <th>Email Address</th>
+              <th>AMI ID</th>
             </tr>
           </thead>
           <tbody>
@@ -46,6 +48,8 @@
             <tr>
               <td>${attendee.firstName}</a></td>
               <td>${attendee.lastName}</td>
+              <td>${attendee.emailAddress}</td>
+              <td>${attendee.amiDetails.ipAddress}</td>
             </tr>
             </c:forEach>
            </tbody>
